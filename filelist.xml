@@ -1,6 +1,0 @@
-<download name="thelevelforchess" type="Map">
- <index src="filelist.xml" dest="filelist.xml"/>
- <files>
-  <file src="level.pak" dest="level.pak" size="41371" md5="959b83428f68a60a56c138fd11095831"/>
- </files>
-</download>
